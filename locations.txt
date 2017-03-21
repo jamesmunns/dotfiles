@@ -1,0 +1,5 @@
+# name        destination
+i3-config     ~/.config/i3/config
+nano-rc       ~/.nanorc
+git-config    ~/.gitconfig
+zsh-rc        ~/.zshrc
